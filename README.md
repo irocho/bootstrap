@@ -12,4 +12,4 @@ https://getbootstrap.com/docs/4.0/getting-started/introduction/
 
 https://www.quackit.com/bootstrap/bootstrap_4/tutorial/
 
-Irei facendo un wiki
+Irei facendo un wiki con tempo
