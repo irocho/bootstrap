@@ -5,11 +5,11 @@ Aprendendo a traballar con GitHub, markdown e  co framework Bootstrap.
 
 - [ ] Fai un fork deste repositorio
 - [ ] Modifica o teu README.md poñendo o teu logo, unha presentación do proxecto e vai marcando estas tarefas que vas facendo
-- [ ] Descarga o repositorio -se xa es maior podes clonalo-
+- [ ] Descarga o repositorio -se xa es maior podes clonalo, facer control de versións...puuufff-
 - [ ] Modifica todo: texto, imaxes, todos os `<div> ` que atopes copia aquí e alá.
-	- [ ] No wiki copia e pega anacos de código `<div> ` e explica para que valen: Fai unha páxina por `class`. O que vén sendo: fai a chuleta sen que ninguén se entere.
-	- [ ] Actualiza o teu repositorio subindo a carpeta do teu traballo _cando remates._
-	- [ ] Enlaza no teu sitio web para poder ver que quedou estupendo. 
+- [ ] No wiki copia e pega anacos de código `<div> ` e explica para que valen: Fai unha páxina por `class`. O que vén sendo: fai a chuleta sen que ninguén se entere. A túa primeira páxina do wiki: `jumbotron
+- [ ] Actualiza o teu repositorio subindo a carpeta do teu traballo _cando remates._
+- [ ] Enlaza no teu sitio web para poder ver que quedou estupendo. 
 
 
 	Consulta todo esto:
