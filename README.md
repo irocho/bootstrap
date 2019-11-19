@@ -25,4 +25,4 @@ Aprendendo a traballar con GitHub, markdown e  co framework Bootstrap.
 	Lembrade mirar o código de todo. Incluso dese .md
 	```
 
-	Irei facendo un wiki pero vai ser mañana
+	Irei facendo un wiki pero vai ser convosco
