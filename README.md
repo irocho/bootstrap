@@ -3,7 +3,7 @@
 # Bootstrap
 Aprendendo a traballar con GitHub, markdown e  co framework Bootstrap.
 
-- [ ] Fai un fork deste repositorio
+- [x] Fai un fork deste repositorio
 - [ ] Modifica o teu _README.md_ poñendo o teu logo, unha presentación do proxecto e vai marcando estas tarefas que vas facendo
 - [ ] Descarga o repositorio -se xa es maior podes clonalo, facer control de versións..._puuufff_-
 - [ ] Modifica todo: texto, imaxes, todos os `<div> ` que atopes copia aquí e alá.
