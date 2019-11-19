@@ -5,7 +5,7 @@ Aprendendo a traballar con GitHub e  co framework Bootstrap
 
 1. Facer un fork deste repositorio
 1. Descarga o repositorio -se xa es maior podes clonalo-
-1.Modifica todo: texto, imaxes, todos os div que atopes copia aquí e alá
+1. Modifica todo: texto, imaxes, todos os `<div>` que atopes copia aquí e alá
 1. Lembra que o tema é a cociña 
 1. Enlaza no teu sitio web para poder velo todos 
 
