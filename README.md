@@ -14,11 +14,11 @@ Aprendendo a traballar con GitHub e  co framework Bootstrap
 
 Consulta todo esto:
 
-* [O noso libro de texto](https://www.w3schools.com/bootstrap4/default.asp)
+* [O noso vello libro de texto](https://www.w3schools.com/bootstrap4/default.asp)
 
 * [Os culpables de todo](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
 
-* [Titorialiño majote](https://www.quackit.com/bootstrap/bootstrap_4/tutorial/)
+* [O novo material que imos usar](https://www.quackit.com/bootstrap/bootstrap_4/tutorial/)
 
 
 ```
