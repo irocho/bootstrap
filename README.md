@@ -1,15 +1,15 @@
 <img style="float:left" height="128px"   src="/imaxes/logo.png" alt="" />
 
 # Bootstrap
-Aprendendo a traballar con GitHub e  co framework Bootstrap 
+Aprendendo a traballar con GitHub, markdown e  co framework Bootstrap 
 
 - [ ] Fai un fork deste repositorio
 - [ ] Modifica o teu README.md poñendo o teu logo, unha presentación do proxecto e vai marcando estas tarefas que vas facendo
 - [ ] Descarga o repositorio -se xa es maior podes clonalo-
-- [ ] Modifica todo: texto, imaxes, todos os `<div> `)que atopes copia aquí e alá
+- [ ] Modifica todo: texto, imaxes, todos os `<div> ` que atopes copia aquí e alá
 - [ ] Lembra que o tema é a cociña 
 - [ ] Actualiza o teu repositorio subindo a carpeta do teu traballo cando remates.
-- [ ] Enlaza no teu sitio web para poder velo todos 
+- [ ] Enlaza no teu sitio web para poder ver que quedou estupendo. 
 
 
 Consulta todo esto:
